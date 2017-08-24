@@ -1,0 +1,3 @@
+[submodule "sample_common_bundle"]
+	path = sample_common_bundle
+	url = https://github.com/TPopovich/sample_common_bundle.git
